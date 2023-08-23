@@ -18,7 +18,7 @@ This project showcases the use of React state management, JSON data manipulation
 Clone the project
 
 ```bash
-  git clone https://github.com/adhamali450/broskies-yearbook
+  git clone https://github.com/Omaryassenn/Fetching_info
 ```
 
 Go to the project directory
