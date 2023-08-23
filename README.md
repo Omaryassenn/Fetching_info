@@ -13,14 +13,32 @@ Convenient display of player information, including name, birthdate, nationality
 This project showcases the use of React state management, JSON data manipulation, and dynamic rendering to create a seamless and efficient search experience. It's an ideal example of building a real-world data search and visualization tool using modern web development technologies.
 
 # Getting Started
-To run the Arabic Player Data Search App locally, follow these steps:
+## Run Locally
 
-Clone the repository: git clone https://github.com/yourusername/arabic-player-search-app.git
-Navigate to the project directory: cd arabic-player-search-app
-Install dependencies: npm install
-Start the development server: npm start
-Open your browser and go to http://localhost:3000 to use the app.
-Data Source
+Clone the project
+
+```bash
+  git clone https://github.com/adhamali450/broskies-yearbook
+```
+
+Go to the project directory
+
+```bash
+  cd broskies-yearbook
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+# Data Source
 The player data used in this app is sourced from the playerDataArabic.json file, which contains information about various players, including their names, birthdates, nationalities, and more. The app dynamically searches and filters this dataset based on user input.
 
 # Acknowledgments
