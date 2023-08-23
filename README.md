@@ -24,7 +24,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd broskies-yearbook
+  cd Fetching_info
 ```
 
 Install dependencies
